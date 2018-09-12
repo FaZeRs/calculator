@@ -1,2 +1,1 @@
-# calculator-rtu
-Kalkulātors
+# Kalkulātors
