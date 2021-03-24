@@ -1,3 +1,3 @@
 # Kalkulātors
 
-## [Demo](https://fazers.github.io/calculator-rtu/)
+## [Demo](https://fazers.github.io/calculator/)
